@@ -36,14 +36,7 @@ Power BI dashboard development
 Data modelling, validation & monitoring frameworks<!--
 **megaleelj/megaleelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫 Let’s Connect
 
-`- 🔭 I’m currently working on ...`
-`- 🌱 I’m currently learning ...`
-`- 👯 I’m looking to collaborate on ...`
-`- 🤔 I’m looking for help with ...`
-`- 💬 Ask me about ...`
-`- 📫 How to reach me: ...`
-`- 😄 Pronouns: ...`
-`- ⚡ Fun fact: ...`
--->
+🌍 Portfolio: mega4lj.netlify.app
+📧 Email: mega4lj@yahoo.com
